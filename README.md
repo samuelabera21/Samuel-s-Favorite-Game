@@ -10,6 +10,11 @@ This project is built using the following technologies:
 - shadcn-ui
 - Tailwind CSS
 
+
+## Live Demo
+Play the Snake Game here: [Live Site](https://samuel-s-favorite-game-yourname.vercel.app)
+
+
 ## Prerequisites
 
 Make sure your system has Node.js and npm installed.

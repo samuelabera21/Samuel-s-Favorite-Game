@@ -12,7 +12,7 @@ This project is built using the following technologies:
 
 
 ## Live Demo
-Play the Snake Game here: samuelabera21-git-main-sami21goodbad-gmailcoms-projects.vercel.app
+Play the Snake Game here: https//:samuelabera21-git-main-sami21goodbad-gmailcoms-projects.vercel.app
 
 
 

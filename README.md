@@ -52,6 +52,15 @@ Preview the built project:
 ```sh
 npm run preview
 ```
+## Project Structure
+
+```
+src/
+├── components/     # UI Components
+├── pages/         # Page Components
+├── hooks/         # Custom Hooks
+├── lib/           # Utility Library
+└── main.tsx       # Application Entry Point
 
 
 ```
